@@ -1,0 +1,12 @@
+{
+  "name": "newyeartimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NewYearTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node NewYearTimer.js"
+  },
+  "author": "Ivan I. D.",
+  "license": "ISC"
+}
